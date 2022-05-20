@@ -1,0 +1,3 @@
+- install graalvm including graal-node and set the correct environment variables
+- use node from graal-node to npm install and execute the graal-chromium.js file in this folder 
+- 
